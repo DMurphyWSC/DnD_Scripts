@@ -1,5 +1,5 @@
 # DnD_Scripts
-Scripts I made for D&amp;D while learning PowerShell
+Scripts I made for D&D while learning PowerShell
 
 I created a script to roll stats using the 4d6 method as a joke for my players who keep rolling over and over until they get a character they like. You can change the number of characters it creates and it writes them both to write-host and csv. 
 
